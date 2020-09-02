@@ -2,7 +2,7 @@
 
 This library handles client and server side record fetching, including search, sort and pagination.
 
-This is the client side component. Feel free to write your own, or extend `PerryRylance.DataTable` by overriding `createInstance`.
+This is the client side component. Feel free to write your own, or extend `DataTable` and `createInstance` to return instances of your extended class.
 
 If you're looking for the server side library, please see <https://github.com/PerryRylance/DataTable>
 
