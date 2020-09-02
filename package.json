@@ -1,0 +1,28 @@
+{
+  "name": "@perry-rylance/data-table",
+  "version": "1.0.0",
+  "description": "This library handles client and server side record fetching, including search, sort and pagination.",
+  "main": "DataTable.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PerryRylance/DataTable.js.git"
+  },
+  "keywords": [
+	"ES6",
+    "DataTable",
+    "Client"
+  ],
+  "author": "Perry Rylance <contact@perryrylance.com> (https://perryrylance.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PerryRylance/DataTable.js/issues"
+  },
+  "homepage": "https://github.com/PerryRylance/DataTable.js#readme"
+}
