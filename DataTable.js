@@ -65,6 +65,9 @@ $(window).on("load", function(event) {
 	
 	$("table.perry-rylance-datatable").each(function(index, el) {
 		
+		if($(el).attr("data-auto-initialize") == "false")
+			return;
+		
 		el.dataTable = DataTable.createInstance(el);
 		
 	});
