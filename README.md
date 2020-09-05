@@ -14,7 +14,7 @@ If you're looking for the server side library, please see <https://github.com/Pe
 
 I recommend installing this via NPM:
 
-`composer require perry-rylance/datatable`
+`npm install @perry-rylance/data-table`
 
 ## Usage
 
